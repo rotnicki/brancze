@@ -1,2 +1,2 @@
-# brancze
-Test gałęzi GitHuba
+# brancze en
+GitHuba branch test
